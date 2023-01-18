@@ -3,11 +3,11 @@
 ### :nerd_face: My fields of interest
 
 - Business process management systems
-- Workflow automation tools
-- Data analytics and visualisation software
+- Workflow automation
+- Data analytics and visualisation
 - Distributed systems
 - Software as a service
-- Software architecture & design
+- Software architecture and design
 
 ### :hammer_and_wrench: My favorite tools
 
