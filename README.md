@@ -65,7 +65,6 @@
 
 <p align="center">
   <img src="https://my-readme-stats-mrxh8.vercel.app/api?username=kvokov&show_icons=true&hide=stars&theme=dark" width="100%">
-  <img src="https://my-readme-stats-mrxh8.vercel.app/api/top-langs/?username=kvokov&langs_count=8&layout=compact&theme=dark" width="100%">
   <img src="https://streak-stats.demolab.com/?user=kvokov&theme=dark" width="100%">
 </p>
 
