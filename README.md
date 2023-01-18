@@ -5,8 +5,9 @@
 - Business process management systems
 - Workflow automation tools
 - Data analytics and visualisation software
+- Distributed systems
 - Software as a service
-- Distributed systems/architecture
+- Software architecture & design
 
 ### :hammer_and_wrench: My favorite tools
 
@@ -64,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://my-readme-stats-mrxh8.vercel.app/api?username=kvokov&show_icons=true&hide=stars&theme=dark" width="100%">
+  <img src="https://mrxh8-github-stats.vercel.app/api?username=kvokov&show_icons=true&hide=stars&theme=dark&count_private=true" width="100%">
   <img src="https://streak-stats.demolab.com/?user=kvokov&theme=dark" width="100%">
 </p>
 
