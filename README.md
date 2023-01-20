@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://mrxh8-github-stats.vercel.app/api?username=kvokov&show_icons=true&hide=stars&theme=dark&count_private=true" width="100%">
+  <img src="https://mrxh8-github-stats.vercel.app/api?username=kvokov&show_icons=true&theme=dark&count_private=true" width="100%">
   <img src="https://streak-stats.demolab.com/?user=kvokov&theme=dark" width="100%">
 </p>
 
