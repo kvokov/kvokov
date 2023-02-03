@@ -4,7 +4,7 @@
 
 - Business process management systems
 - Workflow automation
-- Data analytics and visualisation
+- Data processing and visualisation
 - Distributed systems
 - Software as a service
 - Software architecture and design
