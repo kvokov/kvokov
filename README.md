@@ -72,11 +72,11 @@
 ---
 
 <p align="center">
-  <img src="https://mrxh8-github-stats.vercel.app/api?username=kvokov&show_icons=true&theme=dark&count_private=true" width="100%">
   <img src="https://streak-stats.demolab.com/?user=kvokov&theme=dark" width="100%">
+  <img src="https://mrxh8-github-stats.vercel.app/api?username=kvokov&show_icons=true&theme=dark&count_private=true" width="100%">
 </p>
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kvokov.kvokov&style=flat-square&left_color=gray&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kvokov.kvokov&style=flat-square&left_color=gray&right_color=red) -->
 ![Profile last updated](https://img.shields.io/github/last-commit/kvokov/kvokov?color=red&label=Last%20updated&style=flat-square)
